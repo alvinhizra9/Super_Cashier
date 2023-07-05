@@ -34,7 +34,7 @@ flake8 cashier/*.py
 
 ## Results
 
-You can run `cashier_test_case.ipynb`
+You can run `cashier_test_case.ipynb` or click [here](https://htmlpreview.github.io/?https://github.com/alvinhizra9/Super_Cashier/blob/main/cashier_test_case.html)
 
 ## Future Works
 
